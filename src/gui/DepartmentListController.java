@@ -54,6 +54,7 @@ public class DepartmentListController implements Initializable {
 	public void setDepartmentService(DepartmentService service) {
 		this.service = service;
 	}
+	
 
 	@Override
 	public void initialize(URL url, ResourceBundle rb) {
